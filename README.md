@@ -6,7 +6,6 @@ Global Hunger Index 2024 – Power BI Dashboard
 
 
 
-
 🔍 About the Dataset:
 The GHI 2024 dataset provides composite scores based on four indicators:
 
@@ -34,13 +33,9 @@ The GHI 2024 dataset provides composite scores based on four indicators:
 
 🛠️ Tools & Technologies Used:
 
-~ Power BI Desktop
-
-~ Power Query Editor for ETL
-
-~ Map Visuals (Bing Maps Integration)
-
-~ Bar Charts, KPIs, Custom Color Legends
+- Power BI Desktop
+- Power Query Editor for ETLMap Visuals (Bing Maps Integration)
+- Bar Charts, KPIs, Custom Color Legends
 
 
 
@@ -60,13 +55,10 @@ The GHI 2024 dataset provides composite scores based on four indicators:
 
 📊 KPIs and Metrics Displayed:
 
-Total Countries Analyzed: 127
-
-Highest & Lowest GHI
-
-Countries in Alarming Category
-
-Year-wise GHI Change (Absolute)
+- Total Countries Analyzed: 127
+- Highest & Lowest GHI
+- Countries in Alarming Category
+- Year-wise GHI Change (Absolute)
 
 
 
